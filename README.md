@@ -1,4 +1,7 @@
 # ISS Location Tracker
+<img width="2788" height="1448" alt="8E10B7DB-2A77-4D40-B7A6-C0A10AF8DD82" src="https://github.com/user-attachments/assets/f22d67ba-c23f-44dd-96e2-3759a23312f0" />
+
+
 
 A Python tool that fetches the real-time position of the International Space Station (ISS), reverse geocodes it to a human-readable city/country via the Google Maps API, computes the distance from your location, sends an SMS alert when the ISS is nearby, saves every reading to SQLite, and visualizes the full history on an interactive Streamlit dashboard.
 
